@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-### Together, helping communities self-actuate.
+## Together, helping communities self-actuate.
 
 - [selfdriven.community](https://selfdriven.community)
     - [actuate.selfdriven.community](https://actuate.selfdriven.community)
