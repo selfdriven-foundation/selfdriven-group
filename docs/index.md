@@ -10,7 +10,6 @@ title: Home
 - [selfdriven.coop](https://selfdriven.coop)
 - [selfdriven.education](https://selfdriven.education)
     - [selfdriven.university](https://selfdriven.university)
-        - [Community of Practice](https://www.selfdriven.university/community-of-practice.html)
 - [selfdriven.ai](https://selfdriven.ai)
 - [selfdriven.id](https://selfdriven.id)
 - [selfdriven.insure](https://selfdriven.insure)
