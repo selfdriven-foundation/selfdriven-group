@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-## The selfdriven Group
+### Together, helping communities self-actuate.
 
-- [selfdriven.foundation](https://selfdriven.foundation)
 - [selfdriven.community](https://selfdriven.community)
     - [actuate.selfdriven.community](https://actuate.selfdriven.community)
+- [selfdriven.coop](https://selfdriven.coop)
 - [selfdriven.education](https://selfdriven.education)
     - [selfdriven.university](https://selfdriven.university)
         - [Community of Practice](https://www.selfdriven.university/community-of-practice.html)
@@ -19,12 +19,20 @@ title: Home
     - [octomics](https://octomics.io)
 - [selfdriven.space](https://selfdriven.space)
 - [selfdriven.health](https://selfdriven.health)
+- [octology](https://octology.io)
+- [selfdriven.support](https://selfdriven.support)
+- [selfdriven.fyi](https://selfdriven.fyi)
+
+---
+
+### The selfdriven Group Organisations
+
+- [selfdriven.foundation](https://selfdriven.foundation)
+   - [gov.selfdriven.foundation](gov.selfdriven.foundation) - governance
 - [selfdriven.services](https://selfdriven.services)
     - [selfdriven.clinic](https://selfdriven.clinic)
     - [selfdriven.business](https://selfdriven.business)
     - [selfdriven.tel](https://selfdriven.tel)
-- [octology](https://octology.io)
 
 ---
-
 *By Curious, Be Caring*
