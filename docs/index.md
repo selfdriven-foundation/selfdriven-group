@@ -25,7 +25,7 @@ title: Home
 
 ---
 
-### The selfdriven Group Organisations
+### The Group Organisations
 
 - [selfdriven.foundation](https://selfdriven.foundation)
    - [gov.selfdriven.foundation](gov.selfdriven.foundation) - governance
