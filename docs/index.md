@@ -3,7 +3,7 @@ layout: selfdriven
 title: selfdriven Group
 ---
 
-### Together, helping communities self-actuate.
+# Together, helping communities self-actuate.
 
 ## Index
 - [selfdriven.community](https://selfdriven.community)
@@ -33,4 +33,4 @@ title: selfdriven Group
 - [selfdriven.tel](https://selfdriven.tel)
 
 ---
-*By Curious, Be Caring*
+*Be Curious, Be Caring, Be Constructive*
