@@ -3,8 +3,9 @@ layout: selfdriven
 title: selfdriven Group
 ---
 
-## Together, helping communities self-actuate.
+### Together, helping communities self-actuate.
 
+## Index
 - [selfdriven.community](https://selfdriven.community)
 - [actuate.selfdriven.community](https://actuate.selfdriven.community)
 - [selfdriven.coop](https://selfdriven.coop)
