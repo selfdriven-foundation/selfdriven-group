@@ -1,6 +1,6 @@
 ---
 layout: selfdriven
-title: Home
+title: selfdriven Group
 ---
 
 ## Together, helping communities self-actuate.
