@@ -22,16 +22,14 @@ title: selfdriven Group
 - [selfdriven.support](https://selfdriven.support)
 - [selfdriven.fyi](https://selfdriven.fyi)
 
----
+## The Group Organisations
 
-### The Group Organisations
+### [selfdriven.foundation](https://selfdriven.foundation)
+- [conduction.selfdriven.foundation](conduction.selfdriven.foundation) - governance
 
-- [selfdriven.foundation](https://selfdriven.foundation)
-   - [gov.selfdriven.foundation](gov.selfdriven.foundation) - governance
-- [selfdriven.services](https://selfdriven.services)
-    - [selfdriven.clinic](https://selfdriven.clinic)
-    - [selfdriven.business](https://selfdriven.business)
-    - [selfdriven.tel](https://selfdriven.tel)
+### [selfdriven.services](https://selfdriven.services)
+- [selfdriven.business](https://selfdriven.business)
+- [selfdriven.tel](https://selfdriven.tel)
 
 ---
 *By Curious, Be Caring*
