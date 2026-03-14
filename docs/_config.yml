@@ -1,5 +1,6 @@
 title: "selfdriven Group"
 description: "Group index"
+context: "group"
 baseurl: ""
 url: ""
 defaults:
